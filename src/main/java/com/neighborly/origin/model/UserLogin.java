@@ -1,11 +1,11 @@
 package com.neighborly.origin.model;
 
 public class UserLogin {
-    String userName;
+    String username;
     String password;
 
-    public String getUserName() {
-        return userName;
+    public String getUsername() {
+        return username;
     }
 
     public String getPassword() {
